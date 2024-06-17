@@ -1,4 +1,4 @@
-### Hi folks, my name is Paulo, I'm a Software Developer (and Game Developer sometimes).
+### Hi folks, my name is Paulo, I'm a Game Developer (and Web Developer sometimes).
 ##
 
 <div align="center">
