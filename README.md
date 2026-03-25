@@ -4,7 +4,7 @@
 <div>
   <img align="left" src="https://raw.githubusercontent.com/PauloRuan30/PauloRuan30/main/nier-brother-nier.gif"
        alt="Nier Brother GIF"
-       width="340"
+       width="320"
        style="margin-right: 25px; border-radius: 12px;" />
 
 ```bash
@@ -23,18 +23,18 @@ Languages: Portuguese (native), English (fluent)
 Hobbies: Taking some pictures, Coding, Gaming, Gardening
 LinkedIn: https://www.linkedin.com/in/paulo-ruan-oliveira-barbosa/
 Email: PauloRuan_30@outlook.com
-Portfolio: https://seusite.com
+Portfolio: [Under Construction]
+
+07:55:32 poru@poru-nitro05 ~ →
 ```
 
 </div>
 
 <br clear="left"/>
 
-**Links clicáveis (dentro do estilo do neofetch):**
-
 - **LinkedIn** → [Paulo Ruan Oliveira Barbosa](https://www.linkedin.com/in/paulo-ruan-oliveira-barbosa/)
 - **Email** → [PauloRuan_30@outlook.com](mailto:PauloRuan_30@outlook.com)
-- **Portfolio** → <a href="https://seusite.com" style="background:#f1413d; color:white; padding:8px 16px; border-radius:6px; text-decoration:none; font-weight:bold;">Click here to see my portfolio</a>
+- **Portfolio** → <a href="https://seusite.com" style="background:#f1413d; color:white; padding:8px 16px; border-radius:6px; text-decoration:none; font-weight:bold;">[Under Construction]</a>
 
 <br>
 
