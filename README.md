@@ -2,9 +2,9 @@
 ### Software Developer & Game Developer (sometimes)
 
 <div>
-  <img align="left" src="https://raw.githubusercontent.com/PauloRuan30/PauloRuan30/main/nier-brother-nier.gif"
+  <img align="right" src="https://raw.githubusercontent.com/PauloRuan30/PauloRuan30/main/nier-brother-nier.gif"
        alt="Nier Brother GIF"
-       width="320"
+       width="340"
        style="margin-right: 25px; border-radius: 12px;" />
 
 ```bash
